@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Renan2027
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Mateus_renan
 
-<!---
-Renan2027/Renan2027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### olá! eu sou Mateus_renan👋
+
+https://instagram.com/ghost_gelado?igshid=OGQ5ZDc2ODk2ZA==
+
+![Renan2027 GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan2027&show_icons=true&theme=radical)
+
+## Tecnologia que eu uso no meu dia
+
+<div style ="display: inline_block">
+<br/>
+<img aling="center" alt="C"
+src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div>
